@@ -31,7 +31,7 @@ Note that you will also need to install HMMER v3.1b2 (http://hmmer.org)
 
 INSTALLATION
 * Install Python, biopython, HMMER (if not already available)
-* Download the latest version of _Snowball_ from: https://github.com/algbioi/snowball/releases (click on `snowball_1_2.tar.gz`)
+* Download the latest version of _Snowball_ from: https://github.com/hzi-bifo/snowball/releases (click on `snowball_1_2.tar.gz`)
 * Decompress the downloaded file (e.g. `tar -zxvf snowball_1_2.tar.gz`)
 * Let `$INSTALL_DIR` be the directory that contains the `algbioi` directory that you just decompressed. 
 * Set the `PYTHONPATH` variable:
